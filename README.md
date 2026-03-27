@@ -47,16 +47,15 @@ Broadly, I care about building models that are not just accurate, but **trustwor
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 
 ---
-
+ 
 ## Stats
-
+ 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=imedamieur&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imedamieur&layout=compact&theme=default&hide_border=true&langs_count=6" />
+  <img height="160" src="https://streak-stats.demolab.com?user=imedamieur&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imedamieur&theme=default" />
 </p>
-
+ 
 ---
-
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ieamieur/)
