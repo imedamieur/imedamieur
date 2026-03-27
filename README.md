@@ -1,7 +1,7 @@
 <!-- Typing SVG header -->
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6E6E6E&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Imed+eddine+%F0%9F%91%8B;Computer+Vision+%26+MLOps+enthusiast;Aspiring+PhD+researcher;Building+things+with+PyTorch+%26+HuggingFace" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6E6E6E&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Imed+eddine+%F0%9F%91%8B;Computer+Vision+%26+AI+Engineering+enthusiast;Aspiring+PhD+researcher;Building+things+with+PyTorch+%26+LangGraph" alt="Typing SVG" />
   </a>
 </p>
 
@@ -17,6 +17,16 @@ I enjoy building end-to-end ML systems — from model training to deployment.
 - 📐 Interested in scalable ML infrastructure and MLOps practices
 - 📬 Looking for PhD opportunities
 
+---
+ 
+## Research Interests
+ 
+I'm drawn to **Computer Vision in safety-critical systems** — domains where a model's output has real-world consequences.
+ 
+My primary focus is **medical imaging**: improving diagnostic reliability through robust, interpretable vision models. I'm also interested in applying CV to **transportation systems** — from rail anomaly detection to aviation scene understanding — where the same rigor around precision and failure modes applies.
+ 
+Broadly, I care about building models that are not just accurate, but **trustworthy enough to deploy** in high-stakes environments — because I believe these fields are among the most direct levers we have for **advancing human development and quality of life**.
+ 
 ---
 
 ## Stack
@@ -49,4 +59,4 @@ I enjoy building end-to-end ML systems — from model training to deployment.
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/imedamieur)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ieamieur/)
