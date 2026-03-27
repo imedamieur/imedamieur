@@ -1,7 +1,7 @@
 <!-- Typing SVG header -->
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6E6E6E&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Imed+eddine+%F0%9F%91%8B;Computer+Vision+%26+AI+Engineering+enthusiast;Aspiring+PhD+researcher;Building+things+with+PyTorch+%26+LangGraph" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6E6E6E&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Imed+eddine+%F0%9F%91%8B;CV+%26+AI+Engineering+enthusiast;Aspiring+PhD+researcher;Building+with+PyTorch+%26+LangGraph" alt="Typing SVG" />
   </a>
 </p>
 
@@ -9,7 +9,7 @@
 
 ## About
 
-CS student focused on **Computer Vision** and **MLOps**, working towards a PhD.
+CS student focused on **Computer Vision**, **Prompt Engineering** and **MLOps**, working towards a PhD.
 I enjoy building end-to-end ML systems — from model training to deployment.
 
 - 🔭 Currently deepening my research in Computer Vision
